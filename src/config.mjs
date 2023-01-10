@@ -2,8 +2,9 @@ import defaultImage from './assets/images/default.png';
 
 const CONFIG = {
   name: 'AstroWind',
-
-  origin: 'https://astrowind.vercel.app',
+  site: 'https://samradical.github.io',
+  base: '/astro-blog',
+  origin: 'https://samradical.github.io',
   basePathname: '/',
   trailingSlash: false,
 
