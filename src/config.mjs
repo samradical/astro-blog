@@ -2,10 +2,8 @@ import defaultImage from './assets/images/default.png';
 
 const CONFIG = {
   name: 'AstroWind',
-  site: 'https://samradical.github.io',
-  base: '/astro-blog',
   origin: 'https://samradical.github.io',
-  basePathname: '/astro-blog',
+  basePathname: '/astro-blog/',
   trailingSlash: false,
 
   title: 'AstroWind — Free template for create a website with Astro + Tailwind CSS',
